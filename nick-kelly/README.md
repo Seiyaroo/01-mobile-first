@@ -176,7 +176,7 @@ _Your README.md must include:_
 ```md
 # Kilovolt Blog
 
-**Author**: Nicklas Di Pietri & Kelly Bennett
+**Author**: Nicklas Di Pietro & Kelly Bennett
 **Version**: 1.0.0 (increment the patch/fix version number up if you make more commits past your first submission)
 
 ## Overview

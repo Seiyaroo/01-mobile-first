@@ -172,19 +172,19 @@ _Your repository must include:_
 _Your README.md must include:_
 
 ```md
-# Project Name
+# Kilovolt Blog
 
-**Author**: Your Name Goes Here
+**Author**: Nicklas Di Pietri & Kelly Bennett
 **Version**: 1.0.0 (increment the patch/fix version number up if you make more commits past your first submission)
 
 ## Overview
-<!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for a Code Fellows 301 class. (i.e. What's your problem domain?) -->
+<!-- Kilovolt is a blog that our employer briefly made with their knowledge of HTML and some basic setup of CSS. They have tasked us with finishing up the CSS in line with their vision of the blog. -->
 
 ## Getting Started
-<!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
+<!-- To build this, we have to transfer the HTML into style sheets using CSS. For the user, they simply have to log on the site, and will be able to view everything in a most recent organized fashion. -->
 
 ## Architecture
-<!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
+<!-- The Architecture of Kilovolt uses HTML, and CSS as the primary languages. Assisted libraries used are an Eslint, and a normalize.css to give us a baseline for older computers.  -->
 
 ## Change Log
 <!-- Use this are to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an examples:
