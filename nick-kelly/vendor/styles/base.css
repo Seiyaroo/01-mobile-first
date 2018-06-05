@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    
+  }
+  #almond {
+      text-align: left;
+      background-color: burlywood;
+      font: 1em;
+  }
+
+
+  .icon-menu {
+    font-size: 4em;
+    float: right;
+  }
+   
+  @media only screen and (min-width: 640px) {
+    nav li {
+        display: inline;
+        text-align:left;
+        font: 1em;
+    }
+    body {
+        color: black;
+    }
+    /* .icon-menu {
+        visibility: visible;  */
+    }
+}
+
+  /* .icon-menu:hover .dropdown-content {
+      display:block;
+  } */
+
+
+
+
+
+
+
+
+
+
+
